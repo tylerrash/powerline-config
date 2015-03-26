@@ -1,0 +1,9 @@
+{
+    "segments": {
+        "left": [
+            {
+                "function": "powerline.segments.common.vcs.branch"
+            }
+        ]
+    }
+}
